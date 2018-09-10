@@ -1,4 +1,4 @@
-#AI-Alogrithms
+# AI-Alogrithms
 ### These are non deep learning based AI programs.
 
 ## Sudoku
